@@ -1,6 +1,6 @@
 # first_django_project
 This is my first Django Project
+# Q. Is this rendered correctly?
 
-# It this rendered correctly?
-
-![It this rendered correctly?](Render_image.png)
+## Answer:
+![Review](/first_django_project/Render_image.png)
